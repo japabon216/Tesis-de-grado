@@ -1,4 +1,4 @@
-# Tesis-de-grado
+# SISTEMA MÓVIL PARA LA CLASIFICACIÓN AUTOMÁTICA DE ACTIVIDADES DE LA VIDA DIARIA EMPLEANDO ALGORITMOS DE STREAM LEARNING
 
 Hace falta un ReadMe con las versiones de python que trabajamos
 Las librerías que se usan
